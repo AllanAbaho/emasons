@@ -46,7 +46,6 @@
 
       <h1 class="logo me-auto"><a href="index.html">Emasons ug</a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
-      <!-- <a href="index.html" class="logo me-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
       <nav id="navbar" class="navbar">
         <ul>
@@ -77,6 +76,21 @@
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
+			<?php 
+				if(!empty($_GET['message'])){
+					$message = $_GET['message'];
+				}
+			?>
+			<?php if(!empty($message) && $message == 'success'): ?>
+				<div class="alert alert-success" role="alert">
+					Your message was submitted successfully, we'll get back to you shortly
+				</div>
+			<?php endif; ?>
+			<?php if(!empty($message) && $message == 'danger'): ?>
+				<div class="alert alert-danger" role="alert">
+					Please make sure all fields have been filled correctly
+				</div>
+			<?php endif; ?>
 
     </div>
   </header><!-- End Header -->
@@ -641,7 +655,7 @@
           </div>
 
           <div class="col-lg-7 mt-5 mt-lg-0 d-flex align-items-stretch">
-            <form action="forms/contact.php" method="post" role="form" class="php-email-form">
+            <form action="mail.php" method="post" role="form" class="php-email-form">
               <div class="row">
                 <div class="form-group col-md-6">
                   <label for="name">Your Name</label>
@@ -755,7 +769,7 @@
   <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
   <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
   <script src="assets/vendor/waypoints/noframework.waypoints.js"></script>
-  <script src="assets/vendor/php-email-form/validate.js"></script>
+  <!-- <script src="assets/vendor/php-email-form/validate.js"></script> -->
 
   <!-- Template Main JS File -->
   <script src="assets/js/main.js"></script>
