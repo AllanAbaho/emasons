@@ -394,7 +394,7 @@
         <ul id="portfolio-flters" class="d-flex justify-content-center" data-aos="fade-up" data-aos-delay="100">
           <li data-filter="*" class="filter-active">All</li>
           <li data-filter=".filter-app">Apps</li>
-          <li data-filter=".filter-card">Design</li>
+          <!-- <li data-filter=".filter-card">Design</li> -->
           <li data-filter=".filter-web">Web</li>
         </ul>
 
@@ -413,10 +413,10 @@
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-img"><img src="assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt=""></div>
             <div class="portfolio-info">
-              <h4>WCK Markets</h4>
+              <h4>KYC Uganda</h4>
               <p>Web</p>
               <a href="assets/img/portfolio/portfolio-2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Web 3"><i class="bx bx-plus"></i></a>
-              <a href="https://wckmarkets.com" target="_blank" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+              <a href="https://kycuganda.com/" target="_blank" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
 
@@ -430,7 +430,7 @@
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+          <!-- <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <div class="portfolio-img"><img src="assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt=""></div>
             <div class="portfolio-info">
               <h4>Hutsler Marketplace Logos</h4>
@@ -438,7 +438,7 @@
               <a href="assets/img/portfolio/portfolio-4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Card 2"><i class="bx bx-plus"></i></a>
               <a href="#" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
             </div>
-          </div>
+          </div> -->
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-img"><img src="assets/img/portfolio/portfolio-5.jpg" class="img-fluid" alt=""></div>
@@ -453,14 +453,14 @@
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-img"><img src="assets/img/portfolio/portfolio-6.jpg" class="img-fluid" alt=""></div>
             <div class="portfolio-info">
-              <h4>Hustler App</h4>
+              <h4>H-Cash</h4>
               <p>App</p>
               <a href="assets/img/portfolio/portfolio-6.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 3"><i class="bx bx-plus"></i></a>
               <a href="#" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+          <!-- <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <div class="portfolio-img"><img src="assets/img/portfolio/portfolio-7.jpg" class="img-fluid" alt=""></div>
             <div class="portfolio-info">
               <h4>Card 1</h4>
@@ -478,7 +478,7 @@
               <a href="assets/img/portfolio/portfolio-8.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Card 3"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
             </div>
-          </div>
+          </div> -->
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-img"><img src="assets/img/portfolio/portfolio-9.jpg" class="img-fluid" alt=""></div>
