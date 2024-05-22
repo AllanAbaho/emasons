@@ -5,8 +5,8 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Emasons UG - Reliable Tech Solutions</title>
-  <meta name="description" content="Reliable Tech Solutions For Your Business">
+  <title>Leading Tech Company in Kampala | Software & Web Development Uganda | Emasons Uganda</title>
+  <meta name="description" content="Emasons Uganda is a top tech company in Kampala, Uganda, offering software development, web development, and IT solutions. Contact us for innovative and reliable tech services.">
   <meta name="keywords" content="Tech, Software, Data, Solutions, Uganda">
   <meta name="author" content="Allan Abaho">
   <!-- Favicons -->
@@ -42,7 +42,7 @@
   <header id="header" class="fixed-top ">
     <div class="container d-flex align-items-center">
 
-      <h1 class="logo me-auto"><a href="index.html">Emasons ug</a></h1>
+      <h1 class="logo me-auto"><a href="index.html">Emasons UG</a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
 
       <nav id="navbar" class="navbar">
@@ -50,7 +50,7 @@
           <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
           <li><a class="nav-link scrollto" href="#about">About</a></li>
           <li><a class="nav-link scrollto" href="#services">Services</a></li>
-          <li><a class="nav-link   scrollto" href="#portfolio">Portfolio</a></li>
+          <!-- <li><a class="nav-link   scrollto" href="#portfolio">Portfolio</a></li> -->
           <li><a class="nav-link scrollto" href="#team">Team</a></li>
           <!-- <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
@@ -99,7 +99,7 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-6 d-flex flex-column justify-content-center pt-4 pt-lg-0 order-2 order-lg-1" data-aos="fade-up" data-aos-delay="200">
-          <h1>Better Solutions For Your Business</h1>
+          <h1>Leading Tech Company in Kampala, Uganda</h1>
           <h2>We are a team of talented developers creating solutions for businesses</h2>
           <div class="d-flex justify-content-center justify-content-lg-start">
             <a href="#about" class="btn-get-started scrollto">Get Started</a>
@@ -115,38 +115,6 @@
   </section><!-- End Hero -->
 
   <main id="main">
-
-    <!-- ======= Clients Section ======= -->
-    <section id="clients" class="clients section-bg">
-      <div class="container">
-
-        <div class="row" data-aos="zoom-in">
-
-          <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-            <img src="assets/img/clients/client-1.png" class="img-fluid" alt="">
-          </div>
-
-          <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-            <img src="assets/img/clients/client-2.png" class="img-fluid" alt="">
-          </div>
-          <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-            <img src="assets/img/clients/client-6.png" class="img-fluid" alt="">
-          </div>
-          <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-            <img src="assets/img/clients/client-5.png" class="img-fluid" alt="">
-          </div>
-
-          <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-            <img src="assets/img/clients/client-3.png" class="img-fluid" alt="">
-          </div>
-
-          <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-            <img src="assets/img/clients/client-4.png" class="img-fluid" alt="">
-          </div>
-        </div>
-
-      </div>
-    </section><!-- End Cliens Section -->
 
     <!-- ======= About Us Section ======= -->
     <section id="about" class="about">
@@ -187,137 +155,6 @@
 
       </div>
     </section><!-- End About Us Section -->
-
-    <!-- ======= Why Us Section ======= -->
-    <section id="why-us" class="why-us section-bg">
-      <div class="container-fluid" data-aos="fade-up">
-
-        <div class="row">
-
-          <div class="col-lg-7 d-flex flex-column justify-content-center align-items-stretch  order-2 order-lg-1">
-
-            <div class="content">
-              <h3>Frequently Asked Questions</h3>
-              <p>You have a right to know, so please find some of the answers below.</p>
-            </div>
-
-            <div class="accordion-list">
-              <ul>
-                <li>
-                  <a data-bs-toggle="collapse" class="collapse" data-bs-target="#accordion-list-1"><span>01</span> What
-                    is the typical team size? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
-                  <div id="accordion-list-1" class="collapse show" data-bs-parent=".accordion-list">
-                    <p>
-                      The typical size for each project team is 2-3 developers. Each project team is supported by UI/UX
-                      designers, software testers, managers, and cloud engineers. With each development team sharing
-                      support resources, we’re able to reduce project costs for clients. We’re also able to make
-                      developers more efficient by ensuring they spend their time writing production-level code, not
-                      messing with other tasks. </p>
-                  </div>
-                </li>
-
-                <li>
-                  <a data-bs-toggle="collapse" data-bs-target="#accordion-list-2" class="collapsed"><span>02</span> Do
-                    you code everything from scratch? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
-                  <div id="accordion-list-2" class="collapse" data-bs-parent=".accordion-list">
-                    <p>
-                      Our teams get incredible leverage from open source tools, libraries, frameworks and indeed entire
-                      projects or our own proprietary libraries. We never reinvent the wheel when there is a tool that
-                      is suitable for solving a problem. We always program from scratch the parts that make your project
-                      custom and valuable. </p>
-                  </div>
-                </li>
-
-                <li>
-                  <a data-bs-toggle="collapse" data-bs-target="#accordion-list-3" class="collapsed"><span>03</span> What
-                    industries have you worked with? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
-                  <div id="accordion-list-3" class="collapse" data-bs-parent=".accordion-list">
-                    <p>
-                      Education<br>
-                      Health<br>
-                      Energy<br>
-                      Entertainment<br>
-                      NGOs<br>
-                      Telecommunication <br>
-                    </p>
-                  </div>
-                </li>
-
-                <li>
-                  <a data-bs-toggle="collapse" data-bs-target="#accordion-list-4" class="collapsed"><span>04</span> Is your infrastructure secure? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
-                  <div id="accordion-list-4" class="collapse" data-bs-parent=".accordion-list">
-                    <p>
-                      While no one is ever entirely secure, we take pride in the fact that none of our clients have ever been taken down by an attack and that our network has never been breached.
-                    </p>
-                  </div>
-                </li>
-
-              </ul>
-            </div>
-
-          </div>
-
-          <div class="col-lg-5 align-items-stretch order-1 order-lg-2 img" style='background-image: url("assets/img/why-us.png");' data-aos="zoom-in" data-aos-delay="150">&nbsp;</div>
-        </div>
-
-      </div>
-    </section><!-- End Why Us Section -->
-
-    <!-- ======= Skills Section ======= -->
-    <section id="skills" class="skills">
-      <div class="container" data-aos="fade-up">
-
-        <div class="row">
-          <div class="col-lg-6 d-flex align-items-center" data-aos="fade-right" data-aos-delay="100">
-            <img src="assets/img/skills.png" class="img-fluid" alt="">
-          </div>
-          <div class="col-lg-6 pt-4 pt-lg-0 content" data-aos="fade-left" data-aos-delay="100">
-            <h3>Our Skills And Expertise</h3>
-            <p class="fst-italic">
-              Please find below the areas of competence and experience of the team at Emasons.
-            </p>
-
-            <div class="skills-content">
-
-              <div class="progress">
-                <span class="skill">Websites <i class="val">100%</i></span>
-                <div class="progress-bar-wrap">
-                  <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
-                </div>
-              </div>
-
-              <div class="progress">
-                <span class="skill">Mobile Apps <i class="val">90%</i></span>
-                <div class="progress-bar-wrap">
-                  <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100">
-                  </div>
-                </div>
-              </div>
-
-              <div class="progress">
-                <span class="skill">Web Systems <i class="val">95%</i></span>
-                <div class="progress-bar-wrap">
-                  <div class="progress-bar" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100">
-                  </div>
-                </div>
-              </div>
-
-              <div class="progress">
-                <span class="skill">Graphics Design <i class="val">85%</i></span>
-                <div class="progress-bar-wrap">
-                  <div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100">
-                  </div>
-                </div>
-              </div>
-
-            </div>
-
-          </div>
-        </div>
-
-      </div>
-    </section><!-- End Skills Section -->
-
     <!-- ======= Services Section ======= -->
     <section id="services" class="services section-bg">
       <div class="container" data-aos="fade-up">
@@ -331,32 +168,103 @@
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box">
               <div class="icon"><i class="bx bxl-dribbble"></i></div>
-              <h4><a href="">Technology Consulting Services</a></h4>
-              <p>When you can't find what you’re looking for, before turning to a solution talk to us to find out how to minimize the risks and get the best out of a new project</p>
+              <h4>Custom Software Development</h4>
+              <p>Our team excels in crafting tailored software solutions designed to meet your specific business requirements. We focus on creating scalable, efficient, and innovative systems that enhance your operations and drive growth.
+              </p>
             </div>
           </div>
 
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-file"></i></div>
-              <h4><a href="">Information Systems Audit</a></h4>
-              <p>Use our highly experienced auditors to know whether or not the controls that are used to secure your information assets are working effectively and efficiently.</p>
+              <h4>Mobile App Development</h4>
+              <p>We specialize in developing high-performance mobile applications for both Android and iOS platforms. Our apps are user-friendly, feature-rich, and designed to enhance customer engagement and boost your business reach.</p>
             </div>
           </div>
 
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="300">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-tachometer"></i></div>
-              <h4><a href="">Network Architecture Design</a></h4>
-              <p>A good network design provides efficient, fast and logical traffic forwarding patterns for enterprise network topologies while minimizing the cost of connecting multiple devices at network endpoints.</p>
+              <h4>Website Development</h4>
+              <p>Our web development services include designing and developing responsive, dynamic websites that offer an exceptional user experience. We ensure your online presence is strong, visually appealing, and functional, driving your digital success.</p>
             </div>
           </div>
 
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="400">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-layer"></i></div>
-              <h4><a href="">Information System Security</a></h4>
-              <p>In the majority of industries, data protection is a must, and your systems should follow these standards to be adequate to current demands. Hire us to make sure that your systems are reliable and up-to-date.</p>
+              <h4>API Integration</h4>
+              <p>We provide seamless integration of third-party APIs into your existing systems. <br> Our expertise ensures that your processes are enhanced, and functionality is extended, leading to improved efficiency and productivity.</p>
+            </div>
+          </div>
+
+        </div>
+        <div class="row mt-5">
+          <div class="col-xl-3 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
+            <div class="icon-box">
+              <div class="icon"><i class="bx bxl-dribbble"></i></div>
+              <h4>Data Analysis and Visualization</h4>
+              <p>Unlock the power of your data with our comprehensive analysis and visualization services. We transform complex data sets into actionable insights, helping you make informed decisions and drive business success.
+              </p>
+            </div>
+          </div>
+
+          <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
+            <div class="icon-box">
+              <div class="icon"><i class="bx bx-file"></i></div>
+              <h4>Cloud Solutions</h4>
+              <p>Our cloud services offer secure, scalable, and efficient solutions tailored to your business needs. We help you leverage the cloud to enhance operational flexibility, reduce costs, and support your digital transformation.</p>
+            </div>
+          </div>
+
+          <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="300">
+            <div class="icon-box">
+              <div class="icon"><i class="bx bx-tachometer"></i></div>
+              <h4>IT Consulting</h4>
+              <p>Our experienced IT consultants provide strategic guidance and expertise to optimize your technology investments. We help you align your IT infrastructure with your business goals, ensuring maximum efficiency and effectiveness.</p>
+            </div>
+          </div>
+
+          <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="400">
+            <div class="icon-box">
+              <div class="icon"><i class="bx bx-layer"></i></div>
+              <h4>UX/UI Design</h4>
+              <p>We create intuitive, aesthetically pleasing designs that ensure your software and applications are not only functional but also a delight to use. Our focus on user experience and interface design enhances user satisfaction and engagement.</p>
+            </div>
+          </div>
+
+        </div>
+        <div class="row mt-5">
+          <div class="col-xl-3 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
+            <div class="icon-box">
+              <div class="icon"><i class="bx bxl-dribbble"></i></div>
+              <h4>Maintenance and Support</h4>
+              <p>We offer comprehensive maintenance and support services to keep your systems running smoothly and securely. Our proactive approach minimizes downtime and ensures your technology continues to perform at its best.
+              </p>
+            </div>
+          </div>
+
+          <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
+            <div class="icon-box">
+              <div class="icon"><i class="bx bx-file"></i></div>
+              <h4>E-commerce Solutions</h4>
+              <p>Our robust e-commerce solutions provide scalable platforms for your online business. We focus on delivering a seamless shopping experience for your customers, driving sales and enhancing customer loyalty.</p>
+            </div>
+          </div>
+
+          <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="300">
+            <div class="icon-box">
+              <div class="icon"><i class="bx bx-tachometer"></i></div>
+              <h4>Quality Assurance and Testing</h4>
+              <p>We conduct rigorous quality assurance and testing to ensure your software products are reliable, bug-free, and perform optimally. Our meticulous approach provides peace of mind and ensures your products meet the highest standards.</p>
+            </div>
+          </div>
+
+          <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="400">
+            <div class="icon-box">
+              <div class="icon"><i class="bx bx-layer"></i></div>
+              <h4>Cybersecurity Services</h4>
+              <p>Protect your business from cyber threats with our comprehensive cybersecurity services. We offer risk assessments, proactive defense strategies, and ongoing monitoring to safeguard your digital assets and ensure business continuity.</p>
             </div>
           </div>
 
@@ -364,6 +272,102 @@
 
       </div>
     </section><!-- End Services Section -->
+    <!-- ======= Clients Section ======= -->
+    <section id="clients" class="clients section-bg">
+      <div class="container">
+
+        <div class="row" data-aos="zoom-in">
+
+          <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+            <img src="assets/img/clients/client-2.png" class="img-fluid" alt="">
+          </div>
+          <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+            <img src="assets/img/clients/client-6.png" class="img-fluid" alt="">
+          </div>
+          <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+            <img src="assets/img/clients/client-5.png" class="img-fluid" alt="">
+          </div>
+
+          <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+            <img src="assets/img/clients/client-3.png" class="img-fluid" alt="">
+          </div>
+
+          <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+            <img src="assets/img/clients/client-4.png" class="img-fluid" alt="">
+          </div>
+          <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+            <img src="assets/img/clients/client-7.jpeg" class="img-fluid" alt="">
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- End Cliens Section -->
+    <!-- ======= Why Us Section ======= -->
+    <section id="why-us" class="why-us section-bg">
+      <div class="container" data-aos="fade-up">
+
+        <div class="row">
+
+          <div class="col-lg-7">
+
+            <div class="content">
+              <h3>Frequently Asked Questions</h3>
+              <p>You have a right to know, so please find some of the answers below.</p>
+            </div>
+
+            <div class="accordion-list">
+              <ul>
+                <li>
+                  <a data-bs-toggle="collapse" class="collapse" data-bs-target="#accordion-list-1"><span>01</span> What industries do you specialize in for software development? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+                  <div id="accordion-list-1" class="collapse show" data-bs-parent=".accordion-list">
+                    <p>
+                      We serve a diverse range of industries, including healthcare, finance, education, retail, and more. Our team has extensive experience in understanding industry-specific challenges and delivering tailored software solutions to meet the unique needs of each sector. </p>
+                  </div>
+                </li>
+
+                <li>
+                  <a data-bs-toggle="collapse" data-bs-target="#accordion-list-2" class="collapsed"><span>02</span> How long does it take to develop a custom software solution? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+                  <div id="accordion-list-2" class="collapse" data-bs-parent=".accordion-list">
+                    <p>
+                      The development timeline for a custom software solution varies depending on the complexity and scope of the project. Typically, a project can take anywhere from a few months to over a year. We work closely with our clients to establish clear timelines and ensure timely delivery while maintaining high-quality standards. </p>
+                  </div>
+                </li>
+
+                <li>
+                  <a data-bs-toggle="collapse" data-bs-target="#accordion-list-3" class="collapsed"><span>03</span> What is your approach to mobile app development? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+                  <div id="accordion-list-3" class="collapse" data-bs-parent=".accordion-list">
+                    <p>
+                      Our mobile app development process is user-centric and iterative. We begin by understanding your business objectives and user needs, followed by designing a user-friendly interface and developing a high-performance app. We conduct rigorous testing to ensure the app is reliable and launch it across the desired platforms. Post-launch, we offer continuous support and updates to keep your app performing optimally.
+                    </p>
+                  </div>
+                </li>
+
+                <li>
+                  <a data-bs-toggle="collapse" data-bs-target="#accordion-list-4" class="collapsed"><span>04</span> How do you ensure the security of the software you develop? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+                  <div id="accordion-list-4" class="collapse" data-bs-parent=".accordion-list">
+                    <p>
+                      Security is a top priority at Emasons Uganda LTD. We follow industry best practices and standards to ensure the security of our software. This includes regular security audits, using secure coding practices, conducting vulnerability assessments, and providing ongoing monitoring and updates to address any emerging threats.</p>
+                  </div>
+                </li>
+                <li>
+                  <a data-bs-toggle="collapse" data-bs-target="#accordion-list-4" class="collapsed"><span>05</span> Can you integrate new software with our existing systems? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+                  <div id="accordion-list-4" class="collapse" data-bs-parent=".accordion-list">
+                    <p>
+                      Yes, we specialize in integrating new software solutions with your existing systems. Our team ensures seamless integration to enhance functionality and efficiency without disrupting your current operations. We work closely with your IT team to understand your infrastructure and deliver a solution that fits seamlessly within your ecosystem.</p>
+                  </div>
+                </li>
+
+              </ul>
+            </div>
+
+          </div>
+
+          <div class="col-lg-5 img" style='background-image: url("assets/img/why-us.png");' data-aos="zoom-in" data-aos-delay="150">&nbsp;</div>
+        </div>
+
+      </div>
+    </section><!-- End Why Us Section -->
 
     <!-- ======= Cta Section ======= -->
     <section id="cta" class="cta">
@@ -383,7 +387,7 @@
     </section><!-- End Cta Section -->
 
     <!-- ======= Portfolio Section ======= -->
-    <section id="portfolio" class="portfolio">
+    <!-- <section id="portfolio" class="portfolio">
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
@@ -394,7 +398,6 @@
         <ul id="portfolio-flters" class="d-flex justify-content-center" data-aos="fade-up" data-aos-delay="100">
           <li data-filter="*" class="filter-active">All</li>
           <li data-filter=".filter-app">Apps</li>
-          <!-- <li data-filter=".filter-card">Design</li> -->
           <li data-filter=".filter-web">Web</li>
         </ul>
 
@@ -430,16 +433,6 @@
             </div>
           </div>
 
-          <!-- <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <div class="portfolio-img"><img src="assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt=""></div>
-            <div class="portfolio-info">
-              <h4>Hutsler Marketplace Logos</h4>
-              <p>Design</p>
-              <a href="assets/img/portfolio/portfolio-4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Card 2"><i class="bx bx-plus"></i></a>
-              <a href="#" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
-            </div>
-          </div> -->
-
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-img"><img src="assets/img/portfolio/portfolio-5.jpg" class="img-fluid" alt=""></div>
             <div class="portfolio-info">
@@ -459,27 +452,6 @@
               <a href="#" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
-
-          <!-- <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <div class="portfolio-img"><img src="assets/img/portfolio/portfolio-7.jpg" class="img-fluid" alt=""></div>
-            <div class="portfolio-info">
-              <h4>Card 1</h4>
-              <p>Card</p>
-              <a href="assets/img/portfolio/portfolio-7.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Card 1"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <div class="portfolio-img"><img src="assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt=""></div>
-            <div class="portfolio-info">
-              <h4>Card 3</h4>
-              <p>Card</p>
-              <a href="assets/img/portfolio/portfolio-8.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Card 3"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
-            </div>
-          </div> -->
-
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-img"><img src="assets/img/portfolio/portfolio-9.jpg" class="img-fluid" alt=""></div>
             <div class="portfolio-info">
@@ -493,7 +465,7 @@
         </div>
 
       </div>
-    </section><!-- End Portfolio Section -->
+    </section> -->
 
     <!-- ======= Team Section ======= -->
     <section id="team" class="team section-bg">
@@ -676,12 +648,12 @@
         <div class="row">
 
           <div class="col-lg-3 col-md-6 footer-contact">
-            <h3>Emasons</h3>
+            <h3>Emasons UG</h3>
             <p>
               Mariba Building, Golf Course Road<br>
-              Kololo, Kampala, Uganda <br><br>
+              Kololo, Kampala, Uganda <br>
               <strong>Phone:</strong> +256 700 460 055<br>
-              <strong>Email:</strong> info@emasonsuganda.com<br>
+              <strong>Email:</strong> info@emasonsug.com<br>
             </p>
           </div>
 
@@ -689,10 +661,8 @@
             <h4>Useful Links</h4>
             <ul>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">About us</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Services</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Terms of service</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#about">About us</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#services">Services</a></li>
             </ul>
           </div>
 
@@ -701,9 +671,7 @@
             <ul>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Web Design</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Web Development</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Product Management</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Marketing</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Graphic Design</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Mobile Development</a></li>
             </ul>
           </div>
 
@@ -725,14 +693,14 @@
 
     <div class="container footer-bottom clearfix">
       <div class="copyright">
-        &copy; Copyright <strong><span>Emasons</span></strong>. All Rights Reserved
+        &copy; Copyright <strong><span>Emasons UG</span></strong>. All Rights Reserved
       </div>
       <div class="credits">
         <!-- All the links in the footer should remain intact. -->
         <!-- You can delete the links only if you purchased the pro version. -->
         <!-- Licensing information: https://bootstrapmade.com/license/ -->
         <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/arsha-free-bootstrap-html-template-corporate/ -->
-        Designed by <a href="https://emasonsug.com/">Emasons</a>
+        Designed by <a href="https://emasonsug.com/">Emasons UG</a>
       </div>
     </div>
   </footer><!-- End Footer -->
